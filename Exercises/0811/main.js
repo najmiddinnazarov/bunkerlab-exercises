@@ -1,4 +1,5 @@
 // Simple calculator
+
 function calculator(a, b, sign) {
   if (sign === "+") {
     return a + b;
