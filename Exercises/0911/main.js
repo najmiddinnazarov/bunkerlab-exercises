@@ -7,4 +7,4 @@ function simpleMultiplication(number) {
     return number * 9;
   }
 }
-simpleMultiplication(16);
+console.log(simpleMultiplication(16));
